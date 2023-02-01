@@ -8,3 +8,4 @@ Feature: End to End Validation
     Examples: 
          | Email                  | password   | 
          | testuser85@friender.in | !Aworker2# | 
+
